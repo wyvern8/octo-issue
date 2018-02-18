@@ -43,7 +43,7 @@ provider:
 
 # you can define service wide environment variables here
   environment:
-    GITHUB_TOKEN: <redacted>
+    GITHUB_TOKEN: ${env:GITHUB_TOKEN}
 
 # you can add packaging information here
 #package:
