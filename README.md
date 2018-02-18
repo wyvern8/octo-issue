@@ -21,3 +21,4 @@ Ping me if questions, otherwise i'll take a look at adding the babel and webpack
 ## updates
 @wyvern8 - updated deploy steps
 @wyvern8 - actually, this was on 14.0.9 - will try 15.x
+@wyvern8 - still works fine on 15.0.1 so babel and webpack next..
